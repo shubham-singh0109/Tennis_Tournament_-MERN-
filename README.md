@@ -17,7 +17,7 @@ Clone the project
 
 Create a Database and collection name Tennis in MongoDB Compass 
 
-Start the mongoDB server
+Start the mongoDB services
 
 ```bash
   brew services start mongodb/brew/mongodb-community
