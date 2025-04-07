@@ -1,11 +1,11 @@
 # Tennis_Tournament_-MERN-
 Showing the crud operation using the MERN tech stack.
 
-## Feature
--MongoDB
--ExpressJS
--ReactJS
--NodeJS
+## Technology Used
+- MongoDB
+- ExpressJS
+- ReactJS
+- NodeJS
 
 ## Run Locally
 
